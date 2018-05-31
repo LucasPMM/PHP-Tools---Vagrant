@@ -1,8 +1,3 @@
-A apresentação será dividida em 3 partes:
-1) Slide
-2) Tutorial
-3) Prática
-
 **O que é o Vagrant?**
 
 *Vagrant é uma ferramenta que permite a criação de um ambiente virtual
